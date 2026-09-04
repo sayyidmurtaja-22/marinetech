@@ -1,0 +1,40 @@
+{
+  "version": "2.17",
+  "fileToken": "marine-tech-premium-2026",
+  "title": "Marine Tech - Premium Corporate Profile",
+  "designPhilosophy": "Ultra-clean, premium corporate aesthetic inspired by Stripe/Vercel. Generous whitespace, sophisticated typography, subtle oceanic accents.",
+  "theme": {
+    "colors": {
+      "primary": "#0F172A",
+      "navy": "#1E293B",
+      "teal": "#0EA5E9",
+      "tealDark": "#0284C7",
+      "white": "#FFFFFF",
+      "gray50": "#F8FAFC",
+      "gray100": "#F1F5F9",
+      "gray200": "#E2E8F0",
+      "gray600": "#64748B",
+      "gray900": "#0F172A"
+    },
+    "typography": {
+      "headingFont": "Inter",
+      "bodyFont": "Inter"
+    }
+  },
+  "pages": [
+    {
+      "name": "Landing Page - Company Profile",
+      "priority": "PRIMARY",
+      "sections": ["Hero", "Services (dynamic)", "About Us", "Research Portal Teaser"]
+    },
+    {
+      "name": "Research Repository",
+      "url": "/research"
+    },
+    {
+      "name": "Admin Dashboard",
+      "url": "/admin",
+      "features": ["CRUD", "Live Preview", "Image upload"]
+    }
+  ]
+}
