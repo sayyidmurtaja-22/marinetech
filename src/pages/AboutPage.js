@@ -6,7 +6,7 @@ const teamMembers = [
   { name: 'Rizqi Rizaldi Hidayat, S.I.K., M.Si.', label: 'NIP', value: '198803172018031001', role: 'Supervisor', photo: '/rizqi_hidayat-removebg-preview.png' },
   { name: 'Agung Tri Nugroho, S.I.K., M.Si.', label: 'NIP', value: '199508192024061001', role: 'Supervisor', photo: '/agung_tri_nugroho-removebg-preview.png' },
   { name: 'Mario Nabhan, S.Kel', label: 'NIM', value: 'L1C022078', role: 'Team Member', photo: '/mario_nabhan-removebg-preview.png' },
-  { name: 'Muhammad Akmal Alfajri, S.Kel', label: 'NIM', value: 'L1C022067', role: 'Team Member', photo: '/WhatsApp_Image_2026-09-03_at_22.31.22-removebg-preview.png' },
+  { name: 'Muhammad Akmal Alfajri, S.Kel', label: 'NIM', value: 'L1C022067', role: 'Team Member', photo: '/akmal_alfajri-removebg-preview.png' },
   { name: 'Muhammad Sayyid Murtaja, S.Kel', label: 'NIM', value: 'L1C022044', role: 'Team Member', photo: '/sayyid_murtaja-removebg-preview.png' },
   { name: 'Sayidquthub shidirabbany, S.Kel', label: 'NIM', value: 'L1C022021', role: 'Team Member', photo: '/sayidquthub-removebg-preview.png' },
   { name: 'Khansa Mumtaz, S.Kel', label: 'NIM', value: 'L1C022098', role: 'Team Member', photo: '/khansa_mumtaz-removebg-preview.png' },
