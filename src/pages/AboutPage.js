@@ -11,7 +11,7 @@ const teamMembers = [
   { name: 'Sayidquthub shidirabbany, S.Kel', label: 'NIM', value: 'L1C022021', role: 'Team Member', photo: '/sayidquthub-removebg-preview.png' },
   { name: 'Khansa Mumtaz, S.Kel', label: 'NIM', value: 'L1C022098', role: 'Team Member', photo: '/khansa_mumtaz-removebg-preview.png' },
   { name: 'Jumatoro, S.Kel', label: 'NIM', value: 'L1C022006', role: 'Team Member', photo: '/jumatoro-removebg-preview.png' },
-  { name: 'Rona Harwaa, S.Kel', label: 'NIM', value: 'L1C022102', role: 'Team Member', photo: null },
+  { name: 'Rona Harwaa, S.Kel', label: 'NIM', value: 'L1C022102', role: 'Team Member', photo: '/rona_harwa-removebg-preview.png' },
 ];
 
 const supervisors = teamMembers.filter((m) => m.label === 'NIP');
